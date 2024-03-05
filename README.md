@@ -18,7 +18,7 @@ The Logic Gate Simulator is a Python-based project utilizing the Pygame module t
 - **Deleting Gates:** Users can delete the specific gates using right-click menu.<br/>
 ![Customizable Gates by a single-click](screenshots/gate_delete.gif)
 
-- **Remove all Connection:** Users can remove all the connections froom and to the gate in single-click.<br/>
+- **Remove all Connection:** Users can remove all the connections from and to the gate in single-click.<br/>
 ![Customizable Gates by a single-click](screenshots/gate_remove_all_connections.gif)
 
 - **Customizable Gates:** Users can change the type of the gate in single-click.<br/>
